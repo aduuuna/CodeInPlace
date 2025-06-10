@@ -22,16 +22,17 @@ I chose to implement a **graphical animation** using Python's graphics library, 
 
 ## Screenshot and Demo
 
-[Project Screenshot](balloon-animation/balloon.PNG)
-[Project Demo](https://youtu.be/_-5Fd90v4Ao)
+![Project Screenshot](balloon-animation/balloon.PNG)  
+[🔗 Watch Demo](https://youtu.be/_-5Fd90v4Ao)
 
 ## Repository Structure
+
 balloon-animation/
-|    ├── balloon.py            # Main Python file
-|    ├── requirements.txt      # Dependencies
-|    ├── demo.gif              # Animated preview
-|    ├── screenshot1.png       # Project screenshot
-└── README.md                  # This documentation
+├── balloon.py # Main Python file
+├── requirements.txt # Dependencies
+├── demo.gif # Animated preview
+├── screenshot1.png # Project screenshot
+└── README.md # This documentation
 
 
 ## How to Run
