@@ -1,0 +1,2 @@
+# Required dependencies for Stanford Code in Place final project
+graphics.py==5.0  # Custom graphics library from Stanford Code in Place
